@@ -1,6 +1,7 @@
 # Movie App React
 
 This project is a movie app built into React. It uses the API and is built with Create React App.
+Live version: https://react-movie-app.lukaszla.vot.pl/ 
 
 ## Table of contents
 * [How to run the app](#How-to-run-the-app)
